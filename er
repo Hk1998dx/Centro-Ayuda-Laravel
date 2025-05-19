@@ -1,0 +1,11 @@
+[90m= [39m[34;4mApp\Models\User[39;24m {#5605
+    [34mname[39m: "[32mUsuario Normal[39m",
+    [34memail[39m: "[32muser@example.com[39m",
+    #[33mpassword[39m: "[32m$2y$12$c9WeCIvByCbg/LhyWUCRSOsAZLdMSKSdKNvAKCX2PUuwQq6X3Z6qe[39m",
+    [34mrole[39m: "[32muser[39m",
+    [34mupdated_at[39m: "[32m2025-05-13 13:11:32[39m",
+    [34mcreated_at[39m: "[32m2025-05-13 13:11:32[39m",
+    [34mid[39m: [35m3[39m,
+    +[1mprofile_photo_url[22m: "[32mhttps://ui-avatars.com/api/?name=U+N&color=7F9CF5&background=EBF4FF[39m",
+  }
+
